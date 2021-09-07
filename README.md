@@ -17,3 +17,4 @@ Fantasy Faceoff is a fantasy hockey app that will allow users to create a league
 * Teams will be limited on the number of players in each position
 * A playoff system will be implemented with the highest ranked teams
 * Users will be able to communicate on the app
+* Display points and matchup results by week
